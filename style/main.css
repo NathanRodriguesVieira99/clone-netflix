@@ -49,7 +49,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(/img/uicideboys-2022-1800_80393BA3-CE50-DC70-89B9C97558EEB790_803ac4d9-b006-b69f-2b0fe8c329620b6b.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(../img/uicideboys-2022-1800_80393BA3-CE50-DC70-89B9C97558EEB790_803ac4d9-b006-b69f-2b0fe8c329620b6b.jpg);
     
     height: 650px;
     background-size: cover;
